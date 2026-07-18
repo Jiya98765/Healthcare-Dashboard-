@@ -8,7 +8,7 @@ This project analyzes 100,000 Indian healthcare patient records to identify dise
 
 * Python
 * Pandas & NumPy
-* Matplotlib & Seaborn
+* Matplotlib 
 * SQL
 * Excel
 * Power BI
